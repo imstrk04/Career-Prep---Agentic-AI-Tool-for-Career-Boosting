@@ -32,18 +32,7 @@ The **AI-Driven Resume Enhancement Tool** leverages advanced AI techniques to op
 - **LLMs (Llama 3)** (for resume optimization)
 - **NLP Techniques** (for skill gap analysis)
 
-## Installation & Usage
-```bash
-# Clone the repository
-git clone https://github.com/your-repo-name.git
-cd your-repo-name
 
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the Streamlit app
-streamlit run app.py
-```
 
 ## Contributing
 Contributions are welcome! Please submit issues or pull requests to improve the project.
